@@ -5,7 +5,6 @@ import android.graphics.Canvas
 import android.view.SurfaceHolder
 import com.pawegio.kandroid.runAsync
 import kotlinx.android.synthetic.main.activity_main_screen.*
-import net.q1cc.stefan.momogame01.drawEngine.Surface
 import java.util.*
 
 /**
