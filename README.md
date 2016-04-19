@@ -6,3 +6,5 @@ This example project uses a custom view, a canvas and a non-UI-thread to draw a 
 Features:
 * draws a color in fullscreen
 * fades between a predefined stack of colors when you tap/click it
+
+Minimum SDK is 21 (Android 5), but it could also be lowered a lot, I guess.
