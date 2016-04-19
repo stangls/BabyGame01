@@ -1,4 +1,4 @@
-package net.q1cc.stefan.momogame01
+package net.q1cc.stefan.momogame01.drawEngine
 
 import android.content.Context
 import android.util.AttributeSet
@@ -11,7 +11,7 @@ import com.pawegio.kandroid.d
  * Created by stefan on 18.04.16.
  */
 
-class MySurface(ctx: Context, attrs: AttributeSet?, defStyleAttr:Int, defStyleRes:Int )
+class Surface(ctx: Context, attrs: AttributeSet?, defStyleAttr:Int, defStyleRes:Int )
     : SurfaceView( ctx, attrs, defStyleAttr, defStyleRes )
     , SurfaceHolder.Callback
 {
